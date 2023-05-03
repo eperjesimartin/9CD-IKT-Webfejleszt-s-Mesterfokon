@@ -1,4 +1,8 @@
 
+div{
+       border-style: solid;
+       border-width: medium;          
+}
 
 h1{
     text-align: center;
