@@ -1,0 +1,109 @@
+html {
+    display: block;
+    font-style: initial;
+    background-color: RGB(247, 202, 201)
+}
+.div456{
+    text-align: justify;
+    border-style: ridge;
+    border-color: yellow;
+    
+    
+}
+
+.p123{
+   text-align: center;
+   
+   
+   font-size: large;
+
+}
+
+.kep{
+     height: 15%;
+     width: 10%;
+    text-align: right;
+     
+}
+
+.Mydiv{
+    border-style: ridge;
+    border-color: aqua;
+    text-align: center
+      
+        
+}
+
+.p456{
+       font-size: large;
+
+}
+
+.p1011{
+    text-align: left;
+    font-size: large;
+}
+
+.harmascimsor{
+    text-align: left;
+    font-size: larger;
+}
+
+.div1717{
+    text-align: left;
+    border-style: ridge;
+    border-color: crimson;
+}
+
+
+
+
+.p1616{
+    font-size: large;
+    text-align: left;
+}
+
+.link{
+    text-align: right;
+    font-size: large;
+}
+
+
+.div123{
+          border-style: ridge;
+          border-color: green;
+          margin-left: auto;
+          margin-right: auto;
+          display: block;
+          
+}
+
+
+ul{
+    font-size: large;
+    text-align: justify;
+}
+
+.masodikcimsor{
+    text-align: right;
+}
+
+h2{
+    text-align: start;
+}
+
+img{
+    height: 15%;
+    width: 15%;
+    
+}
+
+.masodiklista{
+    text-align: right;
+}
+
+.kep1{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
